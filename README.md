@@ -12,7 +12,9 @@ A comic book project.
 
 ## Episodes / Issues
 
-*To be added.*
+| # | Title | Description |
+|---|-------|-------------|
+| 1 | Money on the Rise and Fall | *Details coming soon.* |
 
 ## Development
 
