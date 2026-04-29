@@ -2,6 +2,8 @@
 
 ## Scene 1: Morning Tension
 
+![Scene 1: Morning Tension](scene-1-morning-tension.jpg)
+
 Marseles lay in bed, the tension between him and Babygirl thick enough to cut. She stared at him—eyes locked, unblinking.
 
 "You got eyes," Marseles said. "Buggers."
@@ -19,6 +21,8 @@ She lifted herself up onto one elbow, kicking him to get off the bed. Marseles j
 ---
 
 ## Scene 2: The Diner
+
+![Scene 2: The Diner](scene-2-diner-meeting.jpg)
 
 When they first met, they both ordered the same thing.
 
@@ -57,6 +61,8 @@ She rolled out of bed to get ready for work.
 ---
 
 ## Scene 3: L.G Shows Up
+
+![Scene 3: L.G Shows Up](scene-3-lg-doorway.jpg)
 
 L.G stood in the doorway, wiping his eyes, laughing—watching his boy get checked by a girl. But he knew it was the love, because his boy was no push over for a woman.
 
