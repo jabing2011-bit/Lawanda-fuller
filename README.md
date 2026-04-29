@@ -14,7 +14,7 @@ A comic book project.
 
 | # | Title | Description |
 |---|-------|-------------|
-| 1 | Money on the Rise and Fall | *Details coming soon.* |
+| 1 | The Exchange | *Details coming soon.* |
 
 ## Development
 
